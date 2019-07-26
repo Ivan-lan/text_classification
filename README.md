@@ -60,4 +60,4 @@ model.load_model("checkpoints\\best_validation")
 
 -  TextRNN
 
-![image](https://github.com/Ivan-lan/text_classification/blob/master/images/textrnn1.png)
+![image](https://github.com/Ivan-lan/text_classification/blob/master/images/textrnn1.jpg)
